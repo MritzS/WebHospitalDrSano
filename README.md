@@ -1,3 +1,7 @@
+Integrantes:
+-Mayta Rios Mauricio Sebastian
+-Mendoza Capcha Arturo Angel
+
 # WebHospitalDrSano
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 22.2.0.
